@@ -1,2 +1,3 @@
 # SmartEDU
-SmartEDU项目代码和展示视频
+SmartEDU项目代码
+CSS样式文件可能存在缺失
